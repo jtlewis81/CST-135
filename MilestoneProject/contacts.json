@@ -1,0 +1,108 @@
+{
+  "contacts" : [ {
+    "type" : "personContact",
+    "idNumber" : 0,
+    "name" : "Jamie Lewis",
+    "phone" : "2403212502",
+    "email" : "jtlewis91481@gmail.com",
+    "location" : {
+      "locationID" : 0,
+      "street" : "216 E Street",
+      "city" : "Oakland",
+      "state" : "MD"
+    },
+    "photos" : [ {
+      "photoID" : 0,
+      "file" : "file1",
+      "photoDate" : "date1",
+      "photoDescription" : "picture of me"
+    } ],
+    "dateOfBirth" : "9/14/81",
+    "personDescription" : "me, myself, and I",
+    "relatives" : [ ]
+  }, {
+    "type" : "personContact",
+    "idNumber" : 1,
+    "name" : "Xander",
+    "phone" : "1234567890",
+    "email" : "someEmail",
+    "location" : {
+      "locationID" : 0,
+     "street" : "216 E Street",
+      "city" : "Oakland",
+      "state" : "MD"
+    },
+    "photos" : [ {
+      "photoID" : 0,
+      "file" : "file2",
+      "photoDate" : "date2",
+      "photoDescription" : "pic of xander"
+    } ],
+    "dateOfBirth" : "6/25",
+    "personDescription" : "son",
+    "relatives" : [ ]
+  }, {
+    "type" : "personContact",
+    "idNumber" : 2,
+    "name" : "Kat",
+    "phone" : "0987654321",
+    "email" : "anotherEmail",
+    "location" : {
+      "locationID" : 0,
+     "street" : "216 E Street",
+      "city" : "Oakland",
+      "state" : "MD"
+    },
+    "photos" : [ {
+      "photoID" : 0,
+      "file" : "file3",
+      "photoDate" : "date3",
+      "photoDescription" : "our wedding pic"
+    } ],
+    "dateOfBirth" : "1/18",
+    "personDescription" : "wifey",
+    "relatives" : [ ]
+  }, {
+    "type" : "personContact",
+    "idNumber" : 3,
+    "name" : "Pastor Matt",
+    "phone" : "12345",
+    "email" : "email@gmail.com",
+    "location" : {
+      "locationID" : 0,
+     "street" : "Liberty Street",
+      "city" : "Oakland",
+      "state" : "MD"
+    },
+    "photos" : [ {
+      "photoID" : 0,
+      "file" : "file4",
+      "photoDate" : "date4",
+      "photoDescription" : "pic of matt"
+    } ],
+    "dateOfBirth" : "9/28",
+    "personDescription" : "youth pastor",
+    "relatives" : [ ]
+  }, {
+    "type" : "personContact",
+    "idNumber" : 4,
+    "name" : "Miss Courtney",
+    "phone" : "54321",
+    "email" : "",
+    "location" : {
+      "locationID" : 0,
+     "street" : "Liberty Street",
+      "city" : "Oakland",
+      "state" : "MD"
+    },
+    "photos" : [ {
+      "photoID" : 0,
+      "file" : "",
+      "photoDate" : "",
+      "photoDescription" : ""
+    } ],
+    "dateOfBirth" : "",
+    "personDescription" : "Matt's wife",
+    "relatives" : [ ]
+  } ]
+}

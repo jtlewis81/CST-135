@@ -1,0 +1,33 @@
+{
+  "carList" : [ {
+    "year" : 2004,
+    "make" : "Mitsubishi",
+    "model" : "Eclipse",
+    "odometer" : 175000,
+    "engineLiters" : 3.0
+  }, {
+    "year" : 2018,
+    "make" : "Toyota",
+    "model" : "86",
+    "odometer" : 15000,
+    "engineLiters" : 2.0
+  }, {
+    "year" : 2002,
+    "make" : "Dodge",
+    "model" : "Viper GTS",
+    "odometer" : 33000,
+    "engineLiters" : 8.0
+  }, {
+    "year" : 2010,
+    "make" : "Subaru",
+    "model" : "WRX STI",
+    "odometer" : 105000,
+    "engineLiters" : 2.5
+  }, {
+    "year" : 1990,
+    "make" : "Dodge",
+    "model" : "Colt",
+    "odometer" : 250000,
+    "engineLiters" : 1.5
+  } ]
+}
